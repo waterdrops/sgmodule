@@ -18,7 +18,7 @@
 
 封装的通用客户端类[早期版本]，该类无需手动去判断客户端版本，使用通用的接口进行调用。
 
-实现细节查看 [链接](https://github.com/Maasea/sgmodule/blob/322ed3ca8528cd2c71f435abf9bbd4c8f042e0ee/Script/Youtube/lib/client.ts)
+实现细节查看 [链接](https://github.com/waterdrops/sgmodule/blob/322ed3ca8528cd2c71f435abf9bbd4c8f042e0ee/Script/Youtube/lib/client.ts)
 #### 1 生成实例
 
 ```js
